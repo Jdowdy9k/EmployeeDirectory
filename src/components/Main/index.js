@@ -1,6 +1,11 @@
 import React from "react";
 import UserBody from "../UserBody/index"
 
+const style = {
+    container: {
+        margin: 'auto'
+    }
+}
 
 function Main() {
     return (

@@ -1,6 +1,7 @@
 .personList{
     width: 100%;
     padding: 20px;
+    margin: auto;
 }
 table{
     width: 100%;
@@ -19,5 +20,5 @@ thead{
     border-bottom: 2px lightgrey solid;
     
 }
-tr:nth-child(even) {background: #CCC};
-tr:nth-child(odd) {background: #FFF};
+tr:nth-child(even) {background: rgb(241, 94, 26)};
+tr:nth-child(odd) {background: rgb(238, 231, 231)};

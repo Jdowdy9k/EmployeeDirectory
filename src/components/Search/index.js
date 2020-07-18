@@ -1,7 +1,7 @@
 import React from "react";
 import API from "../../utils/API"
 import SearchBar from "../SearchBar/index"
-//import "./styles.css"
+import "./style.css"
 
 class Search extends React.Component {
     constructor(props) {
